@@ -1,0 +1,5 @@
+﻿  application.cpp
+c:\users\auseg\source\repos\datacommassign1final\datacommassign1\datacommassign1\resource.h(12): warning C4005: 'IDM_EXIT': macro redefinition
+  c:\users\auseg\source\repos\datacommassign1final\datacommassign1\datacommassign1\header.h(23): note: see previous definition of 'IDM_EXIT'
+  DataCommAssign1.vcxproj -> C:\Users\auseg\source\repos\DataCommAssign1Final\DataCommAssign1\Debug\DataCommAssign1.exe
+  DataCommAssign1.vcxproj -> C:\Users\auseg\source\repos\DataCommAssign1Final\DataCommAssign1\Debug\DataCommAssign1.pdb (Partial PDB)
